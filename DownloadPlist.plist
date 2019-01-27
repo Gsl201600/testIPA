@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/Gsl201600/testIPA/master/Unity-iPhone.ipa</string>
+					<string>https://raw.githubusercontent.com/Gsl201600/testIPA/master/Yinger.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>AiriSDK</string>
+				<string>颖儿生日专属</string>
 			</dict>
 		</dict>
 	</array>
